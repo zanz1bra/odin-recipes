@@ -1,0 +1,25 @@
+h1 {
+    color: goldenrod;
+    font-family: "Helvetica", sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+
+body {
+    background-color: rgb(15, 7, 59)
+}
+
+a, p {
+    color: gold;
+    font-family: monospace, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited {
+    color: yellowgreen;
+}
