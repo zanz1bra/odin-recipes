@@ -1,0 +1,35 @@
+body {
+    background-color: seagreen;
+}
+
+h1 {
+    font-family: Garamond, serif;
+    color: blanchedalmond;
+    font-size: 70px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+h2, h3, p, li {
+    font-family: Garamond, serif;
+    color: bisque;
+}
+
+a {
+    color:rgb(48, 11, 83);
+}
+
+.home {
+    text-align: center;
+}
+
+a:hover {
+    color:rgb(63, 39, 87);
+}
