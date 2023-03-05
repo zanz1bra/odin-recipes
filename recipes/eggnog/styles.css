@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(2, 56, 2);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 50px;
+    font-weight:600;
+    color: rgb(192, 32, 32);
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+}
+
+a {
+    color: antiquewhite;
+}
+
+a:hover {
+    color:rgb(192, 32, 32);
+}
+
+h2, h3, p, li {
+    color: burlywood;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
